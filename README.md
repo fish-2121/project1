@@ -4,6 +4,13 @@
 ### i made two scripts that ask you your name. one in python, and one in java.
 ### they both start by printing into the terminal to ask your name. then, you enter your name into the terminal. it saves your name as a variable and says hi
 ### i've mostly used java in the past, but i've used python a little bit.
+### here is the codeblock for the python script:
+```
+print("hello! what is your name?")
+name = input()
+print(f"hello {name}!")
+```
+### very short!`
 
 ### things that i like:
 * videogames
